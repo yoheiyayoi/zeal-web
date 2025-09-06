@@ -1,6 +1,5 @@
 "use client"
 
-import { BackgroundEffects } from "./shared/solution-hero-background"
 import Image from "next/image"
 import { cn } from "@/lib/utils"
 import Glow from "./ui/glow"
